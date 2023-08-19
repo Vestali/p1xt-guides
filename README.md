@@ -71,6 +71,8 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 | [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |          |
 | [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |          |
 | [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |          |
+| [Youtube: Essense of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)   |        |          |
+
 
 ### Tier X - Programming Prep Prep
 
